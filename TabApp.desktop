@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=TabApp
+Exec=qmlscene $@ Main.qml
+Icon=TabApp.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

@@ -1,0 +1,17 @@
+{
+    "name": "tabapp.ubuntu",
+    "description": "description of TabApp",
+    "architecture": "all",
+    "title": "TabApp",
+    "hooks": {
+        "TabApp": {
+            "apparmor": "TabApp.apparmor",
+            "desktop":  "TabApp.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-14.10"
+}
+
+

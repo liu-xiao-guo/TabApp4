@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-26 17:14+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Tab1.qml:5
+msgid "Tab 1"
+msgstr ""
+
+#: Tab1.qml:19
+msgid "This is page one"
+msgstr ""
+
+#: Tab2.qml:5
+msgid "Tab 2"
+msgstr ""
+
+#: Tab2.qml:11
+msgid "This is page two"
+msgstr ""
+
+#: Main.qml:36
+msgid "Simple page"
+msgstr ""
+
+#: Main.qml:53
+msgid "External"
+msgstr ""
+
+#: Main.qml:67
+msgid "List view"
+msgstr ""
+
+#: ExternalPage.qml:8
+msgid "This is the external page"
+msgstr ""
